@@ -1,13 +1,16 @@
 ---
-title: My First Essay
+title: Fellowships
 order: 1
 ---
 
-## Introduction
+## Fellowships
+
+2026 USHMM Summer Graduate Fellowship
+2026 JDC Fellowship
 
 This is my first essay using CB-Essay! I can write in **Markdown** and include [links](https://example.com).
 
-### Adding Features
+## Awards
 
 I can add blockquotes:
 
