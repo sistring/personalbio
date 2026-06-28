@@ -1,7 +1,6 @@
 ---
-title: Welcome to CB-Essay
+title: About
 order: 1
-part: Overview and Examples
 ---
 
 CB-Essay is a free, open source publishing framework that lets you ***write with, on, and for*** the web while keeping complete control over how your work appears online and in print.
