@@ -1,5 +1,5 @@
 ---
-title: Cover Letter
+title: CV
 order: 1
 ---
 ## Education
