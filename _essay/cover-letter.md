@@ -35,7 +35,6 @@ order: 1
 - 2021 – 2022	Curatorial Assistant, Luther Presents: Hostile Terrain 94, Dahl Centennial Union Art Gallery, Luther College, Decorah, IA.
 
 ## Fellowships
-
 - 2026	Max and Cecil (Steuer) Chesin Archives Fellowship, Joint Distribution Committee Global Archives.
 - 2026	Summer Graduate Student Research Fellowship, U.S. Holocaust Memorial Museum.
 - 2025	Latino Museum Studies Program Graduate Summer Fellowship, National Museum of the American Latino, Smithsonian.
@@ -45,7 +44,6 @@ order: 1
 - 2018	Imagine Fellowship for Study Abroad, Luther College.
 
 ## Awards
-
 - 2025	Marilyn Stokstad Spencer Museum of Art Student Award, University of Kansas.
 - 2025	Library and Information Science Student Program Award, CollectionBuilder, University of Idaho.
 - 2024	Graduate Student Travel Fund Award, Office of Graduate Studies, University of Kansas.
@@ -90,10 +88,6 @@ order: 1
 - 2023	Virtual Summer Institute Program Assistant, The Jewish Museum, New York City, NY (remote).
 - 2022		Collections Management Intern, Porter House Museum, Decorah, IA.
 - 2019-2022	Anthropology Collections and Research Assistant, Luther College, Decorah, IA.
-
-{% include essay/feature/blockquote.html
-   quote="Knowledge comes, but wisdom lingers"
-   speaker="Alfred Lord Tennyson" %}
 
 ## Professional Service
 - Council of Advocates, Midwest Center for Holocaust Education, 2025-2028
